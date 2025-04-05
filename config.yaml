@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 0
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    aaa:
+      email: 1111@qq.com
+      name: aaa
+      password: $2b$12$OLM.4r5Fshwui75KjwMXxe0THbAnSo5z6j.AJy9i009qVI6vVJjJS
+    abc:
+      email: 123@qq.com
+      name: abc
+      password: $2b$12$UwD02vO8jeaWfLDwmihw4OyDOELwUdMZNcSGiR1.QTXF6mvuVYkzy
+    user:
+      email: 1435247956@qq.com
+      name: User
+      password: $2b$12$M/qbbAHwLRSb6VgNioWKO.0CbFwvCI39BlhyhDAi3Yrpzh6gDwrF6
+preauthorized:
+  emails:
+  - melsby@gmail.com
